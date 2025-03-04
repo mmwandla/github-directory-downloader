@@ -12,10 +12,11 @@ A simple **Python CLI tool** to download a specific **directory** from a **publi
 ## **📌 Installation**  
 
 ### **1️⃣ Clone the repository & navigate to the folder**  
-\`\`\`sh
+
 git clone https://github.com/mmwandla/github-directory-downloader.git
+
 cd github-directory-downloader
-\`\`\`
+
 
 ## **📜 License**  
 This project is licensed under the **MIT License**. 
