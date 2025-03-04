@@ -1,0 +1,13 @@
+setup.py
+github_directory_download/__init__.py
+github_directory_download/cli.py
+github_directory_download/downloader.py
+github_directory_download/utils.py
+github_directory_downloader.egg-info/PKG-INFO
+github_directory_downloader.egg-info/SOURCES.txt
+github_directory_downloader.egg-info/dependency_links.txt
+github_directory_downloader.egg-info/entry_points.txt
+github_directory_downloader.egg-info/requires.txt
+github_directory_downloader.egg-info/top_level.txt
+tests/__init__.py
+tests/test_downloader.py
